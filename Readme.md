@@ -17,7 +17,8 @@
 
 * ### Sending Data : 
 1. Create a UDP socket.
-2. (Optional) Bind to the local IP address and UDP port that the socket should use. (If you don’t choose a port, the operating system will select a random large port number for you when you first try to send data.)
+2. (Optional) Bind to the local IP address and UDP port that the socket should use. 
+(If you don’t choose a port, the operating system will select a random large port number for you when you first try to send data.)
 3. Send data, by specifying the data to send and the destination IP address and port.
 
 * ### Receiving Data : 
