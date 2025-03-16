@@ -1,6 +1,6 @@
 import socket			 
 
-## Creating a UDP socket. 
+## Transfer data across UDP Sockets:
 
 sockett = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
@@ -16,4 +16,3 @@ Data, Addr = sockett.recvfrom(1024)
 print("Message from a host with the following address", Addr[0], "and port", Addr[1], end=':\n')
 # Decoding the recieved data in str 
 print(Data.decode('utf-8'))
-

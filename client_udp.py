@@ -1,6 +1,7 @@
 import socket 
 
-## Creating a UDP socket.
+## Transfer data across UDP Sockets:
+
 # Creating the socket object
 socket1 = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 # The argument socket.SOCK_DGRAM specifies the type as a UDP socket.)
