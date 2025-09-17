@@ -4,7 +4,6 @@
 
 ### This mini project is a simple program to facilitate communication between a client and a server in Python. After finshing this mini project, I'll try to create another version in c++.
 
-## Let's GO! :)
 
 ### This an image from the book *Data and Computer Communications - William Stallings*.
 
