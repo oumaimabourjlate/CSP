@@ -2,7 +2,7 @@
 
 ### This mini project is a simple program to facilitate communication between a client and a server in Python.
 
-### This is an image from the book Data and Computer Communications by William Stallings.
+### Image from the book Data and Computer Communications by William Stallings.
 
 ![D](DCC.png "Data and Computer Communication")
 
